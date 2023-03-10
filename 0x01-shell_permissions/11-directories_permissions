@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod +x $(ls -p | grep /)
+chmod a+x $(find . -type d)
