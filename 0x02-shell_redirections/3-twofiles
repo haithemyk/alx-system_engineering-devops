@@ -1,0 +1,2 @@
+#!/bin/bash
+cat sudo /etc/passwd /etc/hosts
