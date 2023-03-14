@@ -1,2 +1,2 @@
 #!/bin/bash
-unique 
+sort "$1" | unique 
